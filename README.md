@@ -9,7 +9,7 @@ bancaria. Este desafío es un proceso de desarrollo, la  interacción se debe re
 - Captura de errores en transacciones
 
 
-### Comandos :notes:
+### Comandos 
 
 - `npm init`
 - `npm i pg`
